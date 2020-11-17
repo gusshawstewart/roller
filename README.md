@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers bbc
 
 - Class Date: 16 - 19 November
 - Facilitator: @ppremk
